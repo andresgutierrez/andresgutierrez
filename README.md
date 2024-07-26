@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Andres Gutierrez</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresgutierrez" alt="andresgutierrez" /></a> </p>
-
 - 🔭 I’m currently working on [CamusDB](https://github.com/camusdb/camusdb) and [Nixie](https://github.com/andresgutierrez/nixie)
 
 - 🌱 I’m currently learning **Distributed Systems, C#, .NET, Akka, Erlang, Databases**
