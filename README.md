@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Andres Gutierrez</h1>
 
-- 🔭 I’m currently working on [CamusDB](https://github.com/camusdb/camusdb) and [Nixie](https://github.com/andresgutierrez/nixie)
+- 🔭 I’m currently working on [CamusDB](https://github.com/camusdb/camusdb), [Lux](https://github.com/andresgutierrez/lux) and [Nixie](https://github.com/andresgutierrez/nixie)
 
 - 🌱 I’m currently learning **Distributed Systems, C#, .NET, Akka, Erlang, Databases**
 
