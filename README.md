@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Andres Gutierrez</h1>
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 
 - [CamusDB](https://github.com/camusdb/camusdb) SQL distributed database
 - [Kahuna](https://github.com/andresgutierrez/kahuna) distributed locks and key-value store
 - [Kommander](https://github.com/andresgutierrez/kommander) Raft consensus and replication
-- [Nixie](https://github.com/andresgutierrez/nixie) Actor/model made simple
+- [Nixie](https://github.com/andresgutierrez/nixie) High performance Actor/model
 
-- 🌱 I’m currently learning **Distributed Systems, C#, .NET, Akka, Erlang, Databases**
+🌱 I’m currently learning and working on **Distributed Systems, C#, .NET, Akka, Erlang, Databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
