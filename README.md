@@ -7,7 +7,13 @@
 - [Kommander](https://github.com/andresgutierrez/kommander) Raft consensus and replication
 - [Nixie](https://github.com/andresgutierrez/nixie) High performance Actor/model
 
-🌱 I’m currently learning and working on **Distributed Systems, C#, .NET, Akka, Erlang, Databases**
+  Creator of:
+
+- [Phalcon](https://github.com/phalcon/cphalcon) 10k stars
+- [Zephir Lang](https://github.com/zephir-lang/zephir) 3.3k stars
+- [Kumbia](https://github.com/KumbiaPHP/KumbiaPHP/)
+
+🌱 I’m currently learning and working on **Distributed Systems, C#, .NET, Akka, Erlang, Databases, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
