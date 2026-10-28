@@ -3,9 +3,10 @@
 🔭 I’m currently working on:
 
 - [CamusDB](https://github.com/camusdb/camusdb) SQL distributed database
-- [Kahuna](https://github.com/andresgutierrez/kahuna) distributed locks and key-value store
-- [Kommander](https://github.com/andresgutierrez/kommander) Raft consensus and replication
-- [Nixie](https://github.com/andresgutierrez/nixie) High performance Actor/model
+- [Kahuna](https://github.com/kahunakv/kahuna) distributed locks and robust key-value store
+- [Kommander](https://github.com/kahunakv/kommander) Raft consensus and replication
+- [Solarium](https://github.com/solariumdb/solariumdb) Embedded key-value store written in managed code
+- [Nixie](https://github.com/kahunakv/nixie) High performance Actor/model
 
   Creator of:
 
